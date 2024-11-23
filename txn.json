@@ -1,0 +1,20 @@
+{"user_id": "abc",
+    {
+        "transactionID": "TX123456789",
+        "type": "TRANSFER",
+        "amount": 1500.75,
+        "nameOrig": "JohnDoe123",
+        "oldbalanceOrg": 5000.00,
+        "newbalanceOrig": 3500.00,
+        "nameDest": "JaneDoe456",
+        "oldbalanceDest": 2000.00,
+        "newbalanceDest": 3500.75,
+        "isFraud": false,
+        "isFlaggedFraud": false,
+        "transactionCategory": "payment",
+        "currency": "USD",
+        "merchant": "ExampleStore",
+        "isInternational": false,
+        "transactionFee": 3.50
+    },
+}

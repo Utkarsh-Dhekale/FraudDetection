@@ -1,0 +1,24 @@
+{"user_id": "abc",
+    {
+        "name": "John",
+        "age": 30,
+        "email":{
+            "id": "john@gmail.com",
+            "domain": "gmail",
+            "breach history": 3,
+            "isValid": true,
+            "domainVaildation": true,
+            "Microsoft": false,
+            "LinkedIn": true,
+            "Meta": true,
+            "Disposable_Id": false,
+            "emailAge": 3
+        },
+        "phone":{
+            "number": "754896231",
+            "carrier": "Airtel",
+            "diposableSim": false,
+            "phoneAge": 1
+        },
+    },
+}
